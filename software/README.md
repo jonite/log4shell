@@ -1400,6 +1400,8 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | GoAnywhere| MFT Agents | 1.4.2 or later |  | Vulnerable |  | | Versions less than GoAnywhere Agent version 1.4.2 are not affected | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
 | GoAnywhere| Open PGP Studio | Unknown | Not vuln | Workaround |  | | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
 | GoAnywhere| Surveyor/400 | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
+| Google | Affected Products | | | x | x | | | [source](https://security.googleblog.com/2021/12/apache-log4j-vulnerability.html) |
+| Google Cloud | Affected Products | | | x | x | | | [source](https://cloud.google.com/log4j2-security-advisory) |
 | Gradle | Gradle |  | Not vuln | Not vuln | Not vuln | Not vuln | Gradle Scala Compiler Plugin depends upon log4j-core but it is not used. | [source](https://blog.gradle.org/log4j-vulnerability) |
 | Gradle | Gradle Enterprise | 2021.3.6 | Not vuln | Fix |  | | | [source](https://security.gradle.com/advisory/2021-11) |
 | Gradle | Gradle Enterprise Test Distribution Agent | 1.6.2 | Not vuln | Fix |  | | | [source](https://security.gradle.com/advisory/2021-11) |
